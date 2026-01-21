@@ -334,7 +334,7 @@ git commit -m "Initial commit - Student ID Card Management System"
 
 Link your GitHub repository: 
 
-git remote add origin https://github.com/bendaniel5446/SEN-201-SCHOOL-ID-CARD-.git 
+git remote add origin DUMANYIE-CALEB-STUDENT-ID-PROJECT
 git branch -M main 
 git push -u origin main 
 
